@@ -11,7 +11,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T2sPwSt-1x69Hq5lGCAe-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="100" width="80" height="30" as="geometry" />
+          <mxGeometry x="240" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2sPwSt-1x69Hq5lGCAe-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; white-space: break-spaces;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;浏览器前端&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; white-space: break-spaces; background-color: initial;&quot;&gt;发起&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; white-space: break-spaces; background-color: initial;&quot;&gt;登录/查询/提交&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; white-space: break-spaces; background-color: initial;&quot;&gt;请求&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="160" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
