@@ -67,6 +67,9 @@
         <mxCell id="T2sPwSt-1x69Hq5lGCAe-15" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: break-spaces;&quot;&gt;Express接口层&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: break-spaces;&quot;&gt;组织接口返回结构&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="880" width="150" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="T2sPwSt-1x69Hq5lGCAe-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T2sPwSt-1x69Hq5lGCAe-16" target="T2sPwSt-1x69Hq5lGCAe-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T2sPwSt-1x69Hq5lGCAe-16" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: break-spaces;&quot;&gt;浏览器前端&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: break-spaces;&quot;&gt;更新页面、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: break-spaces;&quot;&gt;渲染图表、提示结果&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="970" width="150" height="70" as="geometry" />
         </mxCell>
@@ -82,7 +85,7 @@
         <mxCell id="T2sPwSt-1x69Hq5lGCAe-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="1080" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T2sPwSt-1x69Hq5lGCAe-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.475;entryY=0.273;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T2sPwSt-1x69Hq5lGCAe-17" target="T2sPwSt-1x69Hq5lGCAe-28">
+        <mxCell id="T2sPwSt-1x69Hq5lGCAe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.485;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T2sPwSt-1x69Hq5lGCAe-17" target="T2sPwSt-1x69Hq5lGCAe-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
