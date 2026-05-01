@@ -49,8 +49,14 @@
         <mxCell id="T2sPwSt-1x69Hq5lGCAe-12" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: nowrap;&quot;&gt;数据库层执行SQL&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="610" width="150" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="T2sPwSt-1x69Hq5lGCAe-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T2sPwSt-1x69Hq5lGCAe-13" target="T2sPwSt-1x69Hq5lGCAe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T2sPwSt-1x69Hq5lGCAe-13" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: nowrap;&quot;&gt;数据库返回结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="700" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T2sPwSt-1x69Hq5lGCAe-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T2sPwSt-1x69Hq5lGCAe-14" target="T2sPwSt-1x69Hq5lGCAe-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T2sPwSt-1x69Hq5lGCAe-14" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: break-spaces;&quot;&gt;业务规则层&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: break-spaces;&quot;&gt;返回业务处理结果&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="790" width="150" height="70" as="geometry" />
