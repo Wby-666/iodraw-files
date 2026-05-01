@@ -50,7 +50,7 @@
           <mxGeometry x="330" y="970" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T2sPwSt-1x69Hq5lGCAe-17" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: break-spaces;&quot;&gt;浏览器前端&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: break-spaces;&quot;&gt;更新页面、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; white-space: break-spaces;&quot;&gt;渲染图表、提示结果&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="970" width="150" height="70" as="geometry" />
+          <mxGeometry x="80" y="970" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
