@@ -51,7 +51,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X2LrXBU8xc9nhj_RTvpC-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2LrXBU8xc9nhj_RTvpC-12" target="X2LrXBU8xc9nhj_RTvpC-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="130" as="sourcePoint" />
             <mxPoint x="520" y="80" as="targetPoint" />
