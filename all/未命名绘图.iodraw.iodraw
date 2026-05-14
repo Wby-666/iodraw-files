@@ -114,6 +114,9 @@
         <mxCell id="X2LrXBU8xc9nhj_RTvpC-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关键行为记录与追踪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="220" width="20" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关键行为记录与追踪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="20" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
