@@ -299,10 +299,10 @@
         <mxCell id="X2LrXBU8xc9nhj_RTvpC-67" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;趋势&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="219" width="20" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="X2LrXBU8xc9nhj_RTvpC-68" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;搜索历史&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-68" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;排名&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="219" width="20" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="X2LrXBU8xc9nhj_RTvpC-69" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;选题约束&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-69" value="&lt;font color=&quot;#212930&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;热词&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="591" y="219" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="X2LrXBU8xc9nhj_RTvpC-70" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;我的选题&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
