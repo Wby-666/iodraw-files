@@ -401,13 +401,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X2LrXBU8xc9nhj_RTvpC-83" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;分布&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="661" y="219" width="20" height="170" as="geometry" />
+          <mxGeometry x="701" y="219" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="X2LrXBU8xc9nhj_RTvpC-84" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;分布&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="741" y="219" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="X2LrXBU8xc9nhj_RTvpC-85" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;分布&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="249" width="20" height="170" as="geometry" />
+          <mxGeometry x="661" y="219" width="20" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
