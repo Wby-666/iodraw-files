@@ -34,6 +34,12 @@
         <mxCell id="X2LrXBU8xc9nhj_RTvpC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.532;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X2LrXBU8xc9nhj_RTvpC-7" target="X2LrXBU8xc9nhj_RTvpC-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="320" as="sourcePoint" />
+            <mxPoint x="520" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
