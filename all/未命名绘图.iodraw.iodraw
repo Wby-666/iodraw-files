@@ -244,6 +244,58 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-59" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;检索选题&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296" y="229" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-60" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;搜索历史&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="229" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-61" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;选题约束&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="229" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-62" value="&lt;span style=&quot;color: rgb(33, 41, 48); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;我的选题&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="229" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2LrXBU8xc9nhj_RTvpC-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="210" as="sourcePoint" />
+            <mxPoint x="349" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="306" y="210" />
+              <mxPoint x="349" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="X2LrXBU8xc9nhj_RTvpC-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="270" as="sourcePoint" />
+            <mxPoint x="349" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="210" />
+              <mxPoint x="349" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-65" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="X2LrXBU8xc9nhj_RTvpC-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="270" as="sourcePoint" />
+            <mxPoint x="349" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="363" y="210" />
+              <mxPoint x="349" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2LrXBU8xc9nhj_RTvpC-66" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2LrXBU8xc9nhj_RTvpC-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="270" as="sourcePoint" />
+            <mxPoint x="349" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="392" y="210" />
+              <mxPoint x="349" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
